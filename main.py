@@ -1,5 +1,6 @@
 import sysconfig
 
+import psycopg
 
 if __name__ == "__main__":
     print("File exists purely to make indexing bug more visible")
